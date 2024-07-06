@@ -5,7 +5,7 @@ import { faFacebook, faInstagram, faTwitter, faLinkedin, faTelegram } from '@for
 const Social = () => {
 return (
     <>
-        <div className="bg-slate-800 py-4 text-white">
+        <div className="bg-slate-800 py-4 text-white" id='Social'>
             <h1 className="text-3xl font-bold pt-4 text-center lg:mb-12 ">Social</h1>
             <div className="lg:flex items-center lg:justify-around">
                 <div className="py-4 text-center ">
