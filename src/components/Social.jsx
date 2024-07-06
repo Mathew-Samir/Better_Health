@@ -27,19 +27,19 @@ return (
                         <FontAwesomeIcon icon={faFacebook}
                         className="text-blue-600 hover:text-blue-800 text-2xl" />
                     </a>
-                    <a href="https://twitter.com/example" className='rounded-full bg-white p-3 mx-2'>
+                    <a href="https://x.com/MathewSamir1" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faTwitter}
                         className="text-blue-400 hover:text-blue-600 text-2xl" />
                     </a>
-                    <a href="https://www.instagram.com/example" className='rounded-full bg-white p-3 mx-2'>
+                    <a href="#" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faInstagram}
                         className="text-pink-600 hover:text-pink-800 text-2xl" />
                     </a>
-                    <a href="https://www.linkedin.com/in/example" className='rounded-full bg-white p-3 mx-2'>
+                    <a href="https://www.linkedin.com/in/mathew-samir/" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faLinkedin}
                         className="text-blue-800 hover:text-blue-900 text-2xl" />
                     </a>
-                    <a href="https://t.me/example" className='rounded-full bg-white p-3 mx-2'>
+                    <a href="#" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faTelegram}
                         className="text-blue-500 hover:text-blue-700 text-2xl" />
                     </a>
