@@ -22,24 +22,24 @@ return (
                         </a>    
                     </div>
                 </div>
-                <div className="md:mt-12 mt-4 ml-7 mb-8">
-                    <a href="https://www.facebook.com/profile.php?id=61560150504438" className='rounded-full bg-white p-2 mx-2'>
+                <div className="md:mt-12 mt-4 mb-8 flex items-center justify-center">
+                    <a href="https://www.facebook.com/profile.php?id=61560150504438" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faFacebook}
                         className="text-blue-600 hover:text-blue-800 text-2xl" />
                     </a>
-                    <a href="https://twitter.com/example" className='rounded-full bg-white p-2 mx-3'>
+                    <a href="https://twitter.com/example" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faTwitter}
                         className="text-blue-400 hover:text-blue-600 text-2xl" />
                     </a>
-                    <a href="https://www.instagram.com/example" className='rounded-full bg-white p-2 mx-3'>
+                    <a href="https://www.instagram.com/example" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faInstagram}
                         className="text-pink-600 hover:text-pink-800 text-2xl" />
                     </a>
-                    <a href="https://www.linkedin.com/in/example" className='rounded-full bg-white p-2 mx-3'>
+                    <a href="https://www.linkedin.com/in/example" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faLinkedin}
                         className="text-blue-800 hover:text-blue-900 text-2xl" />
                     </a>
-                    <a href="https://t.me/example" className='rounded-full bg-white p-2 mx-3'>
+                    <a href="https://t.me/example" className='rounded-full bg-white p-3 mx-2'>
                         <FontAwesomeIcon icon={faTelegram}
                         className="text-blue-500 hover:text-blue-700 text-2xl" />
                     </a>
