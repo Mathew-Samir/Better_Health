@@ -2,7 +2,7 @@ import Offers from "./Offers";
 
 const links = [
     {
-        image: 'https://www.hiamag.com/sites/default/files/article/23/07/2020/9541446-665724726.jpg',
+        image: 'https://www.foodandwine.com/thmb/20Fp26wbzSMgOtCdCZy0vpIK8Mo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/garlic-butter-prime-rib-FT-RECIPE0621-fca73e5fa8e046b0b03982757db51628.jpg',
         title: 'Meat meals', description: 'Meat meals', price:'200'
     },
     {
