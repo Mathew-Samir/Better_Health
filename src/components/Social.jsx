@@ -21,6 +21,7 @@ return (
                             20Governorate!5e0!3m2!1sen!2seg!4v1728309690412!5m2!1sen!2seg" 
                             width="100%" 
                             height="100%" 
+                            className='rounded-md'
                             style={{ border: 0 }}  // Fixed style prop
                             allowFullScreen=""  // Fixed camelCase prop
                             loading="lazy">
